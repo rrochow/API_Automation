@@ -1,0 +1,26 @@
+{
+  "name": "api_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrochow/API_Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrochow/API_Automation/issues"
+  },
+  "homepage": "https://github.com/rrochow/API_Automation#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0"
+  }
+}

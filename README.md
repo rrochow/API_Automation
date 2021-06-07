@@ -82,4 +82,4 @@ Se genera un reporte usando Allure
 
     npm run test-report
 
-![Reportes](https://ibb.co/4pJYpGW)
+![Reportes](https://i.ibb.co/HqXxqs7/Captura-de-Pantalla-2021-06-06-a-la-s-22-42-57.png)

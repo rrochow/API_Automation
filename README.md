@@ -1,7 +1,7 @@
 # API AUTOMATION
 
 ## Contexto de la web
-La web tiene como enfoque, el poder comentar las ventajas y desventajas de los productos con opiniones de usuarios que han comprado dichos productos (red social de opiniones de productos).
+La web tiene como enfoque, el poder comentar las ventajas y desventajas de los productos con opiniones de usuarios que han comprado dichos productos (red social de opiniones de productos)
 
 ## Ejecución de pruebas
 
@@ -76,3 +76,10 @@ La web tiene como enfoque, el poder comentar las ventajas y desventajas de los p
 |--|--|--|
 | **Descripción**  | **Datos de Prueba** | **Resultado Esperado** |
 |Se realiza llamada usando método DELETE a la URL: https://jsonplaceholder.typicode.com/posts/2| No tiene  |1- Status code sea 200. 							2- El body de respuesta debe ser un objeto|
+
+## Ejecución de reporte
+Se genera un reporte usando Allure
+
+    npm run test-report
+
+![Reportes](https://ibb.co/4pJYpGW)
